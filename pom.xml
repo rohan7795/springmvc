@@ -59,4 +59,5 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<finalName>mvcapp</finalName>
 </project>
